@@ -1,3 +1,5 @@
+This is a fork of the original project from: https://github.com/varunpant/Quadtree
+
 QuadTree 
 ---------------
 The MIT License
